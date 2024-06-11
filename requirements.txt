@@ -1,0 +1,6 @@
+pip install Flask
+pip install torch torchvision
+pip install requests
+pip install opencv-python
+pip install tensorflow
+pip install gdown
